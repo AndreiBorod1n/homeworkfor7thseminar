@@ -1,0 +1,15 @@
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\bin\Debug\net7.0\Exercise52.exe
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\bin\Debug\net7.0\Exercise52.deps.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\bin\Debug\net7.0\Exercise52.runtimeconfig.json
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\bin\Debug\net7.0\Exercise52.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\bin\Debug\net7.0\Exercise52.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.csproj.AssemblyReference.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.AssemblyInfoInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.AssemblyInfo.cs
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.csproj.CoreCompileInputs.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\refint\Exercise52.dll
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.pdb
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\Exercise52.genruntimeconfig.cache
+C:\Users\Fips1\OneDrive\Рабочий стол\All prog\Software\Introduction to C#\7thseminar\Homework\Exercise52\obj\Debug\net7.0\ref\Exercise52.dll
